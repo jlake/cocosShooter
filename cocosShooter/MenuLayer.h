@@ -9,8 +9,10 @@
 #import <Foundation/Foundation.h>
 #import "cocos2d.h"
 
-@interface MenuLayer : CCLayer {
+@interface MenuLayer : CCLayerColor {
     
 }
+
++(CCScene *) scene;
 
 @end
