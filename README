@@ -1,7 +1,10 @@
-A simple shooting game demo for iOS and Cocos2d framework.
+A simple shooting game demo based on Cocos2d framework for iOS.
 
 With:
-1. a menu layer
-2. a simple explosion effects
+1. menu layer
+2. simple explosion effects
 
 XCode version : 4.0
+
+Tutrial:
+http://www.raywenderlich.com/352/how-to-make-a-simple-iphone-game-with-cocos2d-tutorial
