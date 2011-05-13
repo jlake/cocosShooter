@@ -79,5 +79,9 @@
 	NSLog(@"The fourth menu was called");
 }
 
+- (void) dealloc
+{
+	[super dealloc];
+}
 
 @end
