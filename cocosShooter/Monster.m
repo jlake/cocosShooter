@@ -35,7 +35,7 @@
 @implementation StrongAndSlowMonster
 
 +(id)monster {
-    WeakAndFastMonster *monster = nil;
+    StrongAndSlowMonster *monster = nil;
     if((monster = [[[super alloc] initWithFile:@"Target2.png"] autorelease])) {
         monster.hp = 3;
         monster.minMoveDuration = 6;
